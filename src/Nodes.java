@@ -1,3 +1,5 @@
+// Nabeel Akhtar - 2020
+
 public class Nodes implements Comparable<Nodes> {
 
     Nodes right, left, root;
